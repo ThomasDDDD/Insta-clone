@@ -1,5 +1,9 @@
 # Insta Clone
 
+## Vorlage
+
+![vorlage](./vorlage.png "vorlage")
+
 ### Layout Skizze: main
 
 ![layout](./layout%20skizze.png "skizze")
